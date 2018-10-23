@@ -67,7 +67,7 @@ a:hover, .sidebar a {
 }
 
 .active li {
-    font-style: bold;
+    color: black;
 }
 
 .line { border-top:1px solid #CFCFCF }
