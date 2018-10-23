@@ -10,6 +10,10 @@ abstract class Repository {
 
   public function get() {
 
+    $builder = $this->model->select('*');
+
+
+    return $builder->get();
   }
 
 }

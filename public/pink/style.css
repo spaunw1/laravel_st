@@ -66,6 +66,10 @@ a:hover, .sidebar a {
     color: #030303;
 }
 
+.active li {
+    font-style: bold;
+}
+
 .line { border-top:1px solid #CFCFCF }
 .space { height:30px }
 body .last, body .widget-last { margin-right:0; padding-right:0 !important; border-right:0; }
