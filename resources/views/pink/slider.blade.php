@@ -23,7 +23,7 @@
                                                 <h2 style="color:#fff">{!! $slider->title !!}</h2>
                                             </div>
                                             <div class="slide-content" style="color:#fff">
-                                                {!! $slider->text !!}
+                                                {!! $slider->desc !!}
                                             </div>
 
                                 </div>
